@@ -1,0 +1,14 @@
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\bin\Debug\net8.0\EmployeManagementConsole.exe
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\bin\Debug\net8.0\EmployeManagementConsole.deps.json
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\bin\Debug\net8.0\EmployeManagementConsole.runtimeconfig.json
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\bin\Debug\net8.0\EmployeManagementConsole.dll
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\bin\Debug\net8.0\EmployeManagementConsole.pdb
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\EmployeManagementConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\EmployeManagementConsole.AssemblyInfoInputs.cache
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\EmployeManagementConsole.AssemblyInfo.cs
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\EmployeManagementConsole.csproj.CoreCompileInputs.cache
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\EmployeManagementConsole.dll
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\refint\EmployeManagementConsole.dll
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\EmployeManagementConsole.pdb
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\EmployeManagementConsole.genruntimeconfig.cache
+C:\Users\islam\Downloads\dot net core\EmployeManagementConsole\EmployeManagementConsole\obj\Debug\net8.0\ref\EmployeManagementConsole.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81E8F984-12A7-4218-9AFF-B894E25181F5}|EmployeManagementConsole\\EmployeManagementConsole.csproj|c:\\users\\islam\\downloads\\dot net core\\employemanagementconsole\\employemanagementconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E8F984-12A7-4218-9AFF-B894E25181F5}|EmployeManagementConsole\\EmployeManagementConsole.csproj|solutionrelative:employemanagementconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E8F984-12A7-4218-9AFF-B894E25181F5}|EmployeManagementConsole\\EmployeManagementConsole.csproj|c:\\users\\islam\\downloads\\dot net core\\employemanagementconsole\\employemanagementconsole\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E8F984-12A7-4218-9AFF-B894E25181F5}|EmployeManagementConsole\\EmployeManagementConsole.csproj|solutionrelative:employemanagementconsole\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E8F984-12A7-4218-9AFF-B894E25181F5}|EmployeManagementConsole\\EmployeManagementConsole.csproj|c:\\users\\islam\\downloads\\dot net core\\employemanagementconsole\\employemanagementconsole\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E8F984-12A7-4218-9AFF-B894E25181F5}|EmployeManagementConsole\\EmployeManagementConsole.csproj|solutionrelative:employemanagementconsole\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E8F984-12A7-4218-9AFF-B894E25181F5}|EmployeManagementConsole\\EmployeManagementConsole.csproj|c:\\users\\islam\\downloads\\dot net core\\employemanagementconsole\\employemanagementconsole\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E8F984-12A7-4218-9AFF-B894E25181F5}|EmployeManagementConsole\\EmployeManagementConsole.csproj|solutionrelative:employemanagementconsole\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\EmployeManagementConsole\\Developer.cs",
+              "RelativeDocumentMoniker": "EmployeManagementConsole\\Developer.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\EmployeManagementConsole\\Developer.cs",
+              "RelativeToolTip": "EmployeManagementConsole\\Developer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:11:10.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\EmployeManagementConsole\\Manager.cs",
+              "RelativeDocumentMoniker": "EmployeManagementConsole\\Manager.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\EmployeManagementConsole\\Manager.cs",
+              "RelativeToolTip": "EmployeManagementConsole\\Manager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:10:55.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\EmployeManagementConsole\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeManagementConsole\\Employee.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\EmployeManagementConsole\\Employee.cs",
+              "RelativeToolTip": "EmployeManagementConsole\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:03:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\EmployeManagementConsole\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeManagementConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\dot net core\\EmployeManagementConsole\\EmployeManagementConsole\\Program.cs",
+              "RelativeToolTip": "EmployeManagementConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:02:57.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
