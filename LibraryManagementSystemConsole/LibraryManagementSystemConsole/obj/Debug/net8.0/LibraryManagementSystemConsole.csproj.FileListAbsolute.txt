@@ -1,0 +1,28 @@
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.exe
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.deps.json
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.runtimeconfig.json
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.dll
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.pdb
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.AssemblyInfoInputs.cache
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.AssemblyInfo.cs
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.csproj.CoreCompileInputs.cache
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.dll
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\refint\LibraryManagementSystemConsole.dll
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.pdb
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.genruntimeconfig.cache
+C:\Users\islam\Downloads\advanced .net\.netPractice\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\ref\LibraryManagementSystemConsole.dll
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.exe
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.deps.json
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.runtimeconfig.json
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.dll
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\bin\Debug\net8.0\LibraryManagementSystemConsole.pdb
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.AssemblyInfoInputs.cache
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.AssemblyInfo.cs
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.csproj.CoreCompileInputs.cache
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.dll
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\refint\LibraryManagementSystemConsole.dll
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.pdb
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\LibraryManagementSystemConsole.genruntimeconfig.cache
+C:\Users\islam\Downloads\dot net core\LibraryManagementSystemConsole\LibraryManagementSystemConsole\obj\Debug\net8.0\ref\LibraryManagementSystemConsole.dll

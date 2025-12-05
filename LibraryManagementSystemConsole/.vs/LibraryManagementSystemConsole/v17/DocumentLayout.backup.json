@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D854E22A-831F-4CBE-849C-4D7FC14407C6}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|c:\\users\\islam\\downloads\\dot net core\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D854E22A-831F-4CBE-849C-4D7FC14407C6}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D854E22A-831F-4CBE-849C-4D7FC14407C6}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|c:\\users\\islam\\downloads\\dot net core\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D854E22A-831F-4CBE-849C-4D7FC14407C6}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D854E22A-831F-4CBE-849C-4D7FC14407C6}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|c:\\users\\islam\\downloads\\dot net core\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D854E22A-831F-4CBE-849C-4D7FC14407C6}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D854E22A-831F-4CBE-849C-4D7FC14407C6}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|c:\\users\\islam\\downloads\\dot net core\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D854E22A-831F-4CBE-849C-4D7FC14407C6}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Magazine.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Magazine.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Magazine.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:20:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Book.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:20:15.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\LibraryItem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:19:48.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\dot net core\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:15:08.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
