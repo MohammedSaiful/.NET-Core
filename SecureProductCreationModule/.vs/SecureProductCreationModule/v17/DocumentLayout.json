@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|c:\\users\\islam\\downloads\\.net_core\\secureproductcreationmodule\\secureproductcreationmodule\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|solutionrelative:secureproductcreationmodule\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|c:\\users\\islam\\downloads\\.net_core\\secureproductcreationmodule\\secureproductcreationmodule\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|solutionrelative:secureproductcreationmodule\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|c:\\users\\islam\\downloads\\.net_core\\secureproductcreationmodule\\secureproductcreationmodule\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|solutionrelative:secureproductcreationmodule\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|c:\\users\\islam\\downloads\\.net_core\\secureproductcreationmodule\\secureproductcreationmodule\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|solutionrelative:secureproductcreationmodule\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|c:\\users\\islam\\downloads\\.net_core\\secureproductcreationmodule\\secureproductcreationmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|solutionrelative:secureproductcreationmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|c:\\users\\islam\\downloads\\.net_core\\secureproductcreationmodule\\secureproductcreationmodule\\dataaccessfactory\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|solutionrelative:secureproductcreationmodule\\dataaccessfactory\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|c:\\users\\islam\\downloads\\.net_core\\secureproductcreationmodule\\secureproductcreationmodule\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F682AB44-0EC9-45E0-851F-DA32913DB076}|SecureProductCreationModule\\SecureProductCreationModule.csproj|solutionrelative:secureproductcreationmodule\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SecureProductCreationModule\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SecureProductCreationModule\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T17:10:49.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SecureProductCreationModule\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SecureProductCreationModule\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:36:47.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "SecureProductCreationModule\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "SecureProductCreationModule\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T16:38:37.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Program.cs",
+              "RelativeDocumentMoniker": "SecureProductCreationModule\\Program.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Program.cs",
+              "RelativeToolTip": "SecureProductCreationModule\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:25:09.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureProductCreationModule\\appsettings.json",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\appsettings.json",
+              "RelativeToolTip": "SecureProductCreationModule\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T15:52:37.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\DataAccessFactory\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureProductCreationModule\\DataAccessFactory\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\DataAccessFactory\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecureProductCreationModule\\DataAccessFactory\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:44:42.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "SecureProductCreationModule\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\SecureProductCreationModule\\SecureProductCreationModule\\Entities\\Product.cs",
+              "RelativeToolTip": "SecureProductCreationModule\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:43:31.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

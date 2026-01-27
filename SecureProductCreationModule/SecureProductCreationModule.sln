@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureProductCreationModule", "SecureProductCreationModule\SecureProductCreationModule.csproj", "{F682AB44-0EC9-45E0-851F-DA32913DB076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F682AB44-0EC9-45E0-851F-DA32913DB076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F682AB44-0EC9-45E0-851F-DA32913DB076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F682AB44-0EC9-45E0-851F-DA32913DB076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F682AB44-0EC9-45E0-851F-DA32913DB076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCFB7A99-D49B-4036-ADA4-5230C08C37BB}
+	EndGlobalSection
+EndGlobal
