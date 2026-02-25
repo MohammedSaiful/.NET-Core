@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\error\\unauthorized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\error\\unauthorized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\error\\servererror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\error\\servererror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\error\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\error\\genericerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\error\\genericerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\error\\forbidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\error\\forbidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2780C013-CF20-442F-97C4-AF5BE3BFF94A}|LibraryManagement.DataAccessLayer\\LibraryManagement.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement.dataaccesslayer\\modules\\books\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2780C013-CF20-442F-97C4-AF5BE3BFF94A}|LibraryManagement.DataAccessLayer\\LibraryManagement.DataAccessLayer.csproj|solutionrelative:librarymanagement.dataaccesslayer\\modules\\books\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2780C013-CF20-442F-97C4-AF5BE3BFF94A}|LibraryManagement.DataAccessLayer\\LibraryManagement.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement.dataaccesslayer\\modules\\books\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2780C013-CF20-442F-97C4-AF5BE3BFF94A}|LibraryManagement.DataAccessLayer\\LibraryManagement.DataAccessLayer.csproj|solutionrelative:librarymanagement.dataaccesslayer\\modules\\books\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement.domain\\exceptions\\invalidpublicationyearexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|solutionrelative:librarymanagement.domain\\exceptions\\invalidpublicationyearexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement.domain\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|solutionrelative:librarymanagement.domain\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement.domain\\exceptions\\duplicateisbnexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|solutionrelative:librarymanagement.domain\\exceptions\\duplicateisbnexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53F8411B-2F30-4A93-B540-0862E6625EFB}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2780C013-CF20-442F-97C4-AF5BE3BFF94A}|LibraryManagement.DataAccessLayer\\LibraryManagement.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement.dataaccesslayer\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2780C013-CF20-442F-97C4-AF5BE3BFF94A}|LibraryManagement.DataAccessLayer\\LibraryManagement.DataAccessLayer.csproj|solutionrelative:librarymanagement.dataaccesslayer\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|solutionrelative:librarymanagement.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\islam\\downloads\\dot .net core project\\librarymanagement\\librarymanagement.domain\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7457667B-1DC9-458A-8146-661EF18F786C}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|solutionrelative:librarymanagement.domain\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:12:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T06:12:56.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Forbidden.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\Forbidden.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Error\\Forbidden.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\Forbidden.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Error\\Forbidden.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T05:21:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericError.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\GenericError.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Error\\GenericError.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\GenericError.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Error\\GenericError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T05:21:52.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Error\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\NotFound.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Error\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T05:22:08.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerError.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\ServerError.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Error\\ServerError.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\ServerError.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Error\\ServerError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T05:27:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unauthorized.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\Unauthorized.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Error\\Unauthorized.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Error\\Unauthorized.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Error\\Unauthorized.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T05:27:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T09:09:40.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T04:23:02.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:15:49.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T09:16:41.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:37:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T13:21:16.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.DataAccessLayer\\Modules\\Books\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.DataAccessLayer\\Modules\\Books\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.DataAccessLayer\\Modules\\Books\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManagement.DataAccessLayer\\Modules\\Books\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:59:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvalidPublicationYearException.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Exceptions\\InvalidPublicationYearException.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Domain\\Exceptions\\InvalidPublicationYearException.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Exceptions\\InvalidPublicationYearException.cs",
+              "RelativeToolTip": "LibraryManagement.Domain\\Exceptions\\InvalidPublicationYearException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:07:44.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Exceptions\\BookNotFoundException.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Domain\\Exceptions\\BookNotFoundException.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Exceptions\\BookNotFoundException.cs",
+              "RelativeToolTip": "LibraryManagement.Domain\\Exceptions\\BookNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:07:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.DataAccessLayer\\Modules\\Books\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.DataAccessLayer\\Modules\\Books\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.DataAccessLayer\\Modules\\Books\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManagement.DataAccessLayer\\Modules\\Books\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:00:18.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DuplicateIsbnException.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Exceptions\\DuplicateIsbnException.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Domain\\Exceptions\\DuplicateIsbnException.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Exceptions\\DuplicateIsbnException.cs",
+              "RelativeToolTip": "LibraryManagement.Domain\\Exceptions\\DuplicateIsbnException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:07:19.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T09:09:52.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T05:20:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T05:20:11.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T04:44:59.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.DataAccessLayer\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.DataAccessLayer\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.DataAccessLayer\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryManagement.DataAccessLayer\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T04:28:30.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Domain\\Enums\\Genre.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Enums\\Genre.cs",
+              "RelativeToolTip": "LibraryManagement.Domain\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:49:04.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\Dot .NET Core Project\\LibraryManagement\\LibraryManagement.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryManagement.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:47:07.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
