@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmartsolution\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|solutionrelative:techmartsolution\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmartsolution\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|solutionrelative:techmartsolution\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmartsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|solutionrelative:techmartsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmartsolution\\views\\cart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|solutionrelative:techmartsolution\\views\\cart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.dataaccesslayer\\module\\productss\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|solutionrelative:techmart.dataaccesslayer\\module\\productss\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.dataaccesslayer\\module\\productss\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|solutionrelative:techmart.dataaccesslayer\\module\\productss\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.dataaccesslayer\\module\\orderss\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|solutionrelative:techmart.dataaccesslayer\\module\\orderss\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmartsolution\\views\\checkout\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|solutionrelative:techmartsolution\\views\\checkout\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmartsolution\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|solutionrelative:techmartsolution\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmartsolution\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5535A44-EC32-4B62-8A49-E2853199EA0A}|TechMartSolution\\TechMart.Web.csproj|solutionrelative:techmartsolution\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.dataaccesslayer\\module\\cart\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|solutionrelative:techmart.dataaccesslayer\\module\\cart\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.dataaccesslayer\\module\\cart\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|solutionrelative:techmart.dataaccesslayer\\module\\cart\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.dataaccesslayer\\module\\orderss\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA61E9AC-0610-48B4-8926-2DD214CB7E53}|TechMart.DataAccessLayer\\TechMart.DataAccessLayer.csproj|solutionrelative:techmart.dataaccesslayer\\module\\orderss\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12AA40-BA2E-4D7E-9F29-FFF6D7DFE054}|TechMart.Business\\TechMart.Business.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.business\\modules\\checkoutservices\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A12AA40-BA2E-4D7E-9F29-FFF6D7DFE054}|TechMart.Business\\TechMart.Business.csproj|solutionrelative:techmart.business\\modules\\checkoutservices\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12AA40-BA2E-4D7E-9F29-FFF6D7DFE054}|TechMart.Business\\TechMart.Business.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.business\\modules\\checkoutservices\\icheckoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A12AA40-BA2E-4D7E-9F29-FFF6D7DFE054}|TechMart.Business\\TechMart.Business.csproj|solutionrelative:techmart.business\\modules\\checkoutservices\\icheckoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12AA40-BA2E-4D7E-9F29-FFF6D7DFE054}|TechMart.Business\\TechMart.Business.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.business\\modules\\cartservices\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A12AA40-BA2E-4D7E-9F29-FFF6D7DFE054}|TechMart.Business\\TechMart.Business.csproj|solutionrelative:techmart.business\\modules\\cartservices\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12AA40-BA2E-4D7E-9F29-FFF6D7DFE054}|TechMart.Business\\TechMart.Business.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.business\\modules\\cartservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A12AA40-BA2E-4D7E-9F29-FFF6D7DFE054}|TechMart.Business\\TechMart.Business.csproj|solutionrelative:techmart.business\\modules\\cartservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EDACBD-9970-4388-A001-695F2F5FEF3A}|TechMart.Domain\\TechMart.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EDACBD-9970-4388-A001-695F2F5FEF3A}|TechMart.Domain\\TechMart.Domain.csproj|solutionrelative:techmart.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EDACBD-9970-4388-A001-695F2F5FEF3A}|TechMart.Domain\\TechMart.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EDACBD-9970-4388-A001-695F2F5FEF3A}|TechMart.Domain\\TechMart.Domain.csproj|solutionrelative:techmart.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EDACBD-9970-4388-A001-695F2F5FEF3A}|TechMart.Domain\\TechMart.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EDACBD-9970-4388-A001-695F2F5FEF3A}|TechMart.Domain\\TechMart.Domain.csproj|solutionrelative:techmart.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EDACBD-9970-4388-A001-695F2F5FEF3A}|TechMart.Domain\\TechMart.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\techmartsolution\\techmart.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EDACBD-9970-4388-A001-695F2F5FEF3A}|TechMart.Domain\\TechMart.Domain.csproj|solutionrelative:techmart.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechMartSolution\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "TechMartSolution\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:38:15.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Program.cs",
+              "RelativeDocumentMoniker": "TechMartSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Program.cs",
+              "RelativeToolTip": "TechMartSolution\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAWwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:58:28.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Productss\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "TechMart.DataAccessLayer\\Module\\Productss\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Productss\\ProductRepository.cs",
+              "RelativeToolTip": "TechMart.DataAccessLayer\\Module\\Productss\\ProductRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:58:11.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Orderss\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "TechMart.DataAccessLayer\\Module\\Orderss\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Orderss\\OrderRepository.cs",
+              "RelativeToolTip": "TechMart.DataAccessLayer\\Module\\Orderss\\OrderRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:01:22.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Productss\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TechMart.DataAccessLayer\\Module\\Productss\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Productss\\IProductRepository.cs",
+              "RelativeToolTip": "TechMart.DataAccessLayer\\Module\\Productss\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:46:39.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "TechMartSolution\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Controllers\\CartController.cs",
+              "RelativeToolTip": "TechMartSolution\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:16:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Views\\Cart\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "TechMartSolution\\Views\\Cart\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Views\\Cart\\ViewCart.cshtml",
+              "RelativeToolTip": "TechMartSolution\\Views\\Cart\\ViewCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:23:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "TechMartSolution\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "TechMartSolution\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:16:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Views\\Checkout\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "TechMartSolution\\Views\\Checkout\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Views\\Checkout\\OrderSuccess.cshtml",
+              "RelativeToolTip": "TechMartSolution\\Views\\Checkout\\OrderSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:26:18.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechMartSolution\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMartSolution\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "TechMartSolution\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:24:48.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Cart\\CartRepository.cs",
+              "RelativeDocumentMoniker": "TechMart.DataAccessLayer\\Module\\Cart\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Cart\\CartRepository.cs",
+              "RelativeToolTip": "TechMart.DataAccessLayer\\Module\\Cart\\CartRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:02:05.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Orderss\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "TechMart.DataAccessLayer\\Module\\Orderss\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Orderss\\IOrderRepository.cs",
+              "RelativeToolTip": "TechMart.DataAccessLayer\\Module\\Orderss\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:47:27.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Cart\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "TechMart.DataAccessLayer\\Module\\Cart\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.DataAccessLayer\\Module\\Cart\\ICartRepository.cs",
+              "RelativeToolTip": "TechMart.DataAccessLayer\\Module\\Cart\\ICartRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:46:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Business\\Modules\\CheckoutServices\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "TechMart.Business\\Modules\\CheckoutServices\\CheckoutService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Business\\Modules\\CheckoutServices\\CheckoutService.cs",
+              "RelativeToolTip": "TechMart.Business\\Modules\\CheckoutServices\\CheckoutService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:54:55.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Business\\Modules\\CheckoutServices\\ICheckoutService.cs",
+              "RelativeDocumentMoniker": "TechMart.Business\\Modules\\CheckoutServices\\ICheckoutService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Business\\Modules\\CheckoutServices\\ICheckoutService.cs",
+              "RelativeToolTip": "TechMart.Business\\Modules\\CheckoutServices\\ICheckoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:54:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Business\\Modules\\CartServices\\CartService.cs",
+              "RelativeDocumentMoniker": "TechMart.Business\\Modules\\CartServices\\CartService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Business\\Modules\\CartServices\\CartService.cs",
+              "RelativeToolTip": "TechMart.Business\\Modules\\CartServices\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:08:00.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Business\\Modules\\CartServices\\ICartService.cs",
+              "RelativeDocumentMoniker": "TechMart.Business\\Modules\\CartServices\\ICartService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Business\\Modules\\CartServices\\ICartService.cs",
+              "RelativeToolTip": "TechMart.Business\\Modules\\CartServices\\ICartService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:08:52.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "TechMart.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "TechMart.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:13:09.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "TechMart.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "TechMart.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:13:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "TechMart.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "TechMart.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:12:57.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "TechMart.Domain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\TechMartSolution\\TechMart.Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "TechMart.Domain\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:12:47.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

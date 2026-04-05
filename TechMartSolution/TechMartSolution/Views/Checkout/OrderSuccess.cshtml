@@ -1,0 +1,11 @@
+﻿@model TechMart.Domain.Entities.Order
+@{
+    ViewData["Title"] = "Success";
+}
+
+<div class="alert alert-success mt-5 text-center">
+    <h2>Thank you! Your order has been placed.</h2>
+    <p>Order ID: <strong>@Model.Id</strong></p>
+    <p>Total Amount: <strong>$@Model.TotalAmount</strong></p>
+    <a asp-controller="Cart" asp-action="Index" class="btn btn-outline-primary">Continue Shopping</a>
+</div>

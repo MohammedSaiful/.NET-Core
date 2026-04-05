@@ -1,0 +1,12 @@
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\bin\Debug\net8.0\TechMart.Domain.deps.json
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\bin\Debug\net8.0\TechMart.Domain.dll
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\bin\Debug\net8.0\TechMart.Domain.pdb
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\TechMart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\TechMart.Domain.AssemblyInfoInputs.cache
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\TechMart.Domain.AssemblyInfo.cs
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\TechMart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\TechMart.Domain.sourcelink.json
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\TechMart.Domain.dll
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\refint\TechMart.Domain.dll
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\TechMart.Domain.pdb
+C:\Users\islam\Downloads\.net_core\TechMartSolution\TechMart.Domain\obj\Debug\net8.0\ref\TechMart.Domain.dll

@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Checkout";
+}
+
+<h2>Checkout</h2>
+<form asp-action="Confirm" method="post" class="mt-4">
+    <div class="mb-3">
+        <label class="form-label">Shipping Address</label>
+        <textarea name="shippingAddress" class="form-control" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Place Order</button>
+</form>
