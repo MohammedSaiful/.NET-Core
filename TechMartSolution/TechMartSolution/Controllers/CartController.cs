@@ -56,5 +56,18 @@ namespace TechMart.Web.Controllers
             await _cartService.RemoveFromCartAsync(id);
             return RedirectToAction("ViewCart");
         }
+
+        [HttpPost]
+        public async Task<IActionResult> UpdateQuantity(int id, int quantity)
+        {
+            await _cartService.UpdateQuantityAsync(id, quantity);
+            return RedirectToAction("ViewCart");
+        }
+
+        public async Task<IActionResult> Clear()
+        {
+            await _cartService.ClearCartAsync(GetCartSessionId());
+            return RedirectToAction("ViewCart");
+        }
     }
 }

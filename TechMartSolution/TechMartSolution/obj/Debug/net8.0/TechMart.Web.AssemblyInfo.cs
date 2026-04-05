@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechMart.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31776d790d29c9c87dc0c909bf28501a6d693b74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4942c7a73c2f7de58f9b859ccf908a4c7b9c59a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechMart.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechMart.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,57 @@
-﻿@{
+﻿@using TechMart.Business.Modules.CartServices
+@{
     ViewData["Title"] = "Checkout";
 }
 
 <h2>Checkout</h2>
+
+
+@inject ICartService CartService
+@{
+    var sessionId = Context.Session.GetString("CartSessionId");
+    var items = await CartService.GetCartItemsAsync(sessionId);
+    var subtotal = await CartService.GetCartSubtotalAsync(sessionId);
+    var tax = subtotal * 0.10f; // 10% Tax
+    var shipping = 15.00f;      // Flat Shipping
+    var total = subtotal + tax + shipping;
+}
+
+<h3>Order Summary</h3>
+<ul class="list-group mb-3">
+    @foreach (var item in items)
+    {
+        <li class="list-group-item d-flex justify-content-between lh-sm">
+            <div>
+                <h6 class="my-0">@item.Product.Name</h6>
+                <small class="text-muted">Quantity: @item.Quantity</small>
+            </div>
+            <span class="text-muted">$@(item.Quantity* item.Product.Price)</span>
+        </li>
+    }
+    <li class="list-group-item d-flex justify-content-between bg-light">
+        <div class="text-success">
+            <h6 class="my-0">Subtotal</h6>
+        </div>
+        <span class="text-success">$@subtotal</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-between">
+        <span>Tax (10%)</span>
+        <strong>$@tax.ToString("F2")</strong>
+    </li>
+    <li class="list-group-item d-flex justify-content-between">
+        <span>Shipping</span>
+        <strong>$@shipping.ToString("F2")</strong>
+    </li>
+    <li class="list-group-item d-flex justify-content-between">
+        <span>Total (USD)</span>
+        <strong>$@total.ToString("F2")</strong>
+    </li>
+</ul>
+
+<form asp-action="Confirm" method="post">
+</form>
+
+
 <form asp-action="Confirm" method="post" class="mt-4">
     <div class="mb-3">
         <label class="form-label">Shipping Address</label>
