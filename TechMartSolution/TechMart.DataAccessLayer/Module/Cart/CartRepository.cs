@@ -43,5 +43,15 @@ namespace TechMart.DataAccessLayer.Module.Cart
             _context.CartItems.RemoveRange(items);
             await _context.SaveChangesAsync();
         }
+
+        public async Task UpdateQuantityAsync(int id, int quantity)
+        {
+            var item = await _context.CartItems.FindAsync(id);
+            if (item != null)
+            {
+                item.Quantity = quantity;
+                await _context.SaveChangesAsync();
+            }
+        }
     }
 }

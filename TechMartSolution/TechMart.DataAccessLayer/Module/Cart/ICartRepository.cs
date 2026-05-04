@@ -13,5 +13,7 @@ namespace TechMart.DataAccessLayer.Module.Cart
         Task AddOrUpdateCartItemAsync(CartItem item);
         Task RemoveItemAsync(int id);
         Task ClearCartAsync(string sessionId);
+
+        Task UpdateQuantityAsync(int id, int quantity);
     }
 }

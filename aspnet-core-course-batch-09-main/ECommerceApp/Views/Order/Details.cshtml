@@ -1,0 +1,43 @@
+﻿@model Order
+
+<h2>Order Details</h2>
+
+<p>Order Id: @Model.Id</p>
+<p>Date: @Model.OrderDate</p>
+<p>Status: @Model.Status</p>
+<p>Total: @Model.TotalAmount</p>
+<p>Shipping: @Model.ShipAddress</p>
+
+<table class="table">
+
+    <tr>
+        <th>Product</th>
+        <th>Qty</th>
+        <th>Price</th>
+        <th>Subtotal</th>
+    </tr>
+
+    @foreach (var item in Model.OrderItems)
+    {
+        <tr>
+            <td>@item.ProductId</td>
+            <td>@item.Quantity</td>
+            <td>@item.UnitPrice</td>
+            <td>@item.Subtotal</td>
+        </tr>
+    }
+
+</table>
+
+@if (User.IsInRole("Admin") || User.IsInRole("SuperAdmin"))
+{
+    <form asp-action="MarkDelivered" method="post">
+
+        <input type="hidden" name="id" value="@Model.Id" />
+
+        <button class="btn btn-success">
+            Mark Delivered
+        </button>
+
+    </form>
+}

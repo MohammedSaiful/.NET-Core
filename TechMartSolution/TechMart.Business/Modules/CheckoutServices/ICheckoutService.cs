@@ -11,5 +11,6 @@ namespace TechMart.Business.Modules.CheckoutServices
     {
         Task<float> CalculateTotalAsync(string sessionId, float taxRate, float shippingFee);
         Task<Order> PlaceOrderAsync(string sessionId, string shippingAddress);
+
     }
 }

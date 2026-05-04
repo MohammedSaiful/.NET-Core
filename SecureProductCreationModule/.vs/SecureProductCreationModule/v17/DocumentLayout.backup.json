@@ -50,8 +50,7 @@
               "RelativeToolTip": "SecureProductCreationModule\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-27T17:10:49.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T17:10:49.658Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "SecureProductCreationModule\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wBwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:36:47.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T16:36:47.242Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "SecureProductCreationModule\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:25:09.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T16:25:09.03Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "SecureProductCreationModule\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T15:52:37.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:52:37.994Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "SecureProductCreationModule\\DataAccessFactory\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:44:42.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:44:42.272Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "SecureProductCreationModule\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:43:31.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:43:31.396Z"
             }
           ]
         }

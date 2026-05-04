@@ -31,3 +31,4 @@ C:\Users\islam\Downloads\.net_core\Assignment2\Assignment2\obj\Debug\net8.0\refi
 C:\Users\islam\Downloads\.net_core\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.pdb
 C:\Users\islam\Downloads\.net_core\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
 C:\Users\islam\Downloads\.net_core\Assignment2\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
+C:\Users\islam\Downloads\.net_core\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json

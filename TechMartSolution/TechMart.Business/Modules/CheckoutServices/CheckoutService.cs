@@ -30,19 +30,19 @@ namespace TechMart.Business.Modules.CheckoutServices
             return subtotal + (subtotal * taxRate) + shippingFee;
         }
 
+        
+
         public async Task<Order> PlaceOrderAsync(string sessionId, string shippingAddress)
         {
             var cartItems = await _cartRepo.GetCartItemsAsync(sessionId);
             if (!cartItems.Any()) throw new InvalidOperationException("Cart is empty.");
 
-            float total = cartItems.Sum(i => i.Quantity * i.Product.Price);
-
             var order = new Order
             {
                 OrderDate = DateTime.Now,
                 ShippingAddress = shippingAddress,
-                Status = "Confirmed",
-                TotalAmount = total,
+                Status = "Paid",
+                TotalAmount = cartItems.Sum(i => i.Quantity * i.Product.Price),
                 OrderItems = cartItems.Select(ci => new OrderItem
                 {
                     ProductId = ci.ProductId,
@@ -51,12 +51,15 @@ namespace TechMart.Business.Modules.CheckoutServices
                 }).ToList()
             };
 
-            // Note: Ensure your OrderRepository implementation handles the persistence logic
             await _orderRepo.CreateOrder(order);
 
-            // Clear the cart after successful order placement
-            await _cartRepo.ClearCartAsync(sessionId);
+            // Loop through items and reduce stock
+            foreach (var item in cartItems)
+            {
+                await _productRepo.UpdateStockAsync(item.ProductId, item.Quantity);
+            }
 
+            await _cartRepo.ClearCartAsync(sessionId);
             return order;
         }
     }

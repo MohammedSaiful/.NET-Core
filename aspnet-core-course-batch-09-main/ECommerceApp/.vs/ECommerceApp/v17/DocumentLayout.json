@@ -1,0 +1,1092 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1616A3-03CF-4545-A081-E88EA6FB640E}|..\\ECommerce.API\\ECommerce.API.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1616A3-03CF-4545-A081-E88EA6FB640E}|..\\ECommerce.API\\ECommerce.API.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerce.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1616A3-03CF-4545-A081-E88EA6FB640E}|..\\ECommerce.API\\ECommerce.API.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\views\\order\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:views\\order\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\views\\checkout\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:views\\checkout\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698BF69-C70F-41B2-B7D7-794F865427BD}|..\\ECommerceApp.BusinessLayer\\ECommerceApp.BusinessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.businesslayer\\modules\\orders\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698BF69-C70F-41B2-B7D7-794F865427BD}|..\\ECommerceApp.BusinessLayer\\ECommerceApp.BusinessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.businesslayer\\modules\\orders\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\modules\\orders\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\modules\\orders\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\areas\\admin\\views\\users\\createadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:areas\\admin\\views\\users\\createadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\account\\viewmodels\\createadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\products\\productviewmodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\products\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\products\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\products\\viewmodels\\producteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\products\\viewmodels\\productcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\products\\interfaces\\iproductviewmodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\orders\\checkoutviewmodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\orders\\interfaces\\icheckoutviewmodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\categories\\categoryviewmodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\categories\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\categories\\viewmodels\\categorylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\categories\\viewmodels\\categoryeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\categories\\viewmodels\\categorycreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\categories\\interfaces\\icategoryviewmodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\carts\\cartviewmodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\carts\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C053968B-88E6-4D1D-9339-3176BC3611F8}|..\\ECommerceApp.PresentationLayer\\ECommerceApp.PresentationLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.presentationlayer\\modules\\carts\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698BF69-C70F-41B2-B7D7-794F865427BD}|..\\ECommerceApp.BusinessLayer\\ECommerceApp.BusinessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.businesslayer\\modules\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698BF69-C70F-41B2-B7D7-794F865427BD}|..\\ECommerceApp.BusinessLayer\\ECommerceApp.BusinessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.businesslayer\\modules\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698BF69-C70F-41B2-B7D7-794F865427BD}|..\\ECommerceApp.BusinessLayer\\ECommerceApp.BusinessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.businesslayer\\modules\\carts\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698BF69-C70F-41B2-B7D7-794F865427BD}|..\\ECommerceApp.BusinessLayer\\ECommerceApp.BusinessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.businesslayer\\exceptions\\invaliduserinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\identity\\identityroleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\modules\\products\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\modules\\categories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C0A0-6575-43AA-89A9-6E13B2466C14}|..\\ECommerceApp.DataAccessLayer\\ECommerceApp.DataAccessLayer.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.dataaccesslayer\\modules\\carts\\sessioncartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\enums\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A072B1-C919-4BC2-8CD7-69603ED207E3}|..\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|c:\\users\\islam\\downloads\\.net_core\\aspnet-core-course-batch-09-main\\ecommerceapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7163F9F-CFF1-4D29-AAC5-84D89356FDAE}|ECommerceApp.csproj|solutionrelative:areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\islam\\Desktop\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerce.API\\Program.cs",
+              "RelativeToolTip": "..\\ECommerce.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:05:40.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerce.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerce.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\ECommerce.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:04:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerce.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerce.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "..\\ECommerce.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:04:37.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T15:02:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Views\\Order\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Views\\Order\\MyOrders.cshtml",
+              "RelativeToolTip": "Views\\Order\\MyOrders.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T15:01:39.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T15:00:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Views\\Checkout\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Views\\Checkout\\Confirmation.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T15:00:37.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:58:56.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Orders\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Modules\\Orders\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Orders\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Modules\\Orders\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:56:28.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:43:46.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Views\\Users\\CreateAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Users\\CreateAdmin.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Views\\Users\\CreateAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Users\\CreateAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T14:44:49.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Orders\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Modules\\Orders\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Orders\\OrderRepository.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Modules\\Orders\\OrderRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:35:11.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Orders\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.BusinessLayer\\Modules\\Orders\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Orders\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "..\\ECommerceApp.BusinessLayer\\Modules\\Orders\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:39:28.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Orders\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.BusinessLayer\\Modules\\Orders\\OrderService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Orders\\OrderService.cs",
+              "RelativeToolTip": "..\\ECommerceApp.BusinessLayer\\Modules\\Orders\\OrderService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:39:45.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:42:11.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:45:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAwwK0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:46:15.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:46:06.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwHoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:41:43.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:45:15.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAwwKkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:45:09.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:44:56.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:44:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:44:39.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:44:27.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductViewModelProvider.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ProductViewModelProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ProductViewModelProvider.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ProductViewModelProvider.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ProductViewModelProvider.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:43:17.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ProductMappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ProductMappingProfile.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ProductMappingProfile.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ProductMappingProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:43:11.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductListViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:43:04.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductEditViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductEditViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductEditViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductEditViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:42:57.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductCreateViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductCreateViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\ViewModels\\ProductCreateViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:42:51.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductViewModelProvider.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\Interfaces\\IProductViewModelProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\Interfaces\\IProductViewModelProvider.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Products\\Interfaces\\IProductViewModelProvider.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Products\\Interfaces\\IProductViewModelProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:42:41.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CheckoutViewModelProvider.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Orders\\CheckoutViewModelProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Orders\\CheckoutViewModelProvider.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Orders\\CheckoutViewModelProvider.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Orders\\CheckoutViewModelProvider.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvz8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:42:31.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICheckoutViewModelProvider.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Orders\\Interfaces\\ICheckoutViewModelProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Orders\\Interfaces\\ICheckoutViewModelProvider.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Orders\\Interfaces\\ICheckoutViewModelProvider.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Orders\\Interfaces\\ICheckoutViewModelProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:42:23.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryViewModelProvider.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\CategoryViewModelProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\CategoryViewModelProvider.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\CategoryViewModelProvider.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\CategoryViewModelProvider.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:42:14.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\CategoryMappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\CategoryMappingProfile.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\CategoryMappingProfile.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\CategoryMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:42:06.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryListViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryListViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryListViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:41:56.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryEditViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryEditViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryEditViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryEditViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:41:49.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryCreateViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryCreateViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\ViewModels\\CategoryCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:41:42.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICategoryViewModelProvider.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\Interfaces\\ICategoryViewModelProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\Interfaces\\ICategoryViewModelProvider.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Categories\\Interfaces\\ICategoryViewModelProvider.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Categories\\Interfaces\\ICategoryViewModelProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:41:33.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartViewModelProvider.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Carts\\CartViewModelProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Carts\\CartViewModelProvider.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Carts\\CartViewModelProvider.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Carts\\CartViewModelProvider.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:41:22.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Carts\\ViewModels\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Carts\\ViewModels\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Carts\\ViewModels\\CartViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Carts\\ViewModels\\CartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:41:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Carts\\ViewModels\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.PresentationLayer\\Modules\\Carts\\ViewModels\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Carts\\ViewModels\\CartItemViewModel.cs",
+              "RelativeToolTip": "..\\ECommerceApp.PresentationLayer\\Modules\\Carts\\ViewModels\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:41:04.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Products\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.BusinessLayer\\Modules\\Products\\ProductService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Products\\ProductService.cs",
+              "RelativeToolTip": "..\\ECommerceApp.BusinessLayer\\Modules\\Products\\ProductService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:40:16.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Categories\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.BusinessLayer\\Modules\\Categories\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Categories\\CategoryService.cs",
+              "RelativeToolTip": "..\\ECommerceApp.BusinessLayer\\Modules\\Categories\\CategoryService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:39:17.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Carts\\CartService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.BusinessLayer\\Modules\\Carts\\CartService.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Modules\\Carts\\CartService.cs",
+              "RelativeToolTip": "..\\ECommerceApp.BusinessLayer\\Modules\\Carts\\CartService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:39:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "InvalidUserInputException.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Exceptions\\InvalidUserInputException.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.BusinessLayer\\Exceptions\\InvalidUserInputException.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.BusinessLayer\\Exceptions\\InvalidUserInputException.cs",
+              "RelativeToolTip": "..\\ECommerceApp.BusinessLayer\\Exceptions\\InvalidUserInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:37:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:36:32.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IdentityRoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Identity\\IdentityRoleSeeder.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Identity\\IdentityRoleSeeder.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Identity\\IdentityRoleSeeder.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Identity\\IdentityRoleSeeder.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:35:44.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:35:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Identity\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Identity\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Identity\\ApplicationRole.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Identity\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:35:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Products\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Modules\\Products\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Products\\ProductRepository.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Modules\\Products\\ProductRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:35:19.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Categories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Modules\\Categories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Categories\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Modules\\Categories\\CategoryRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:35:03.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SessionCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Carts\\SessionCartRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.DataAccessLayer\\Modules\\Carts\\SessionCartRepository.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.DataAccessLayer\\Modules\\Carts\\SessionCartRepository.cs",
+              "RelativeToolTip": "..\\ECommerceApp.DataAccessLayer\\Modules\\Carts\\SessionCartRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:34:50.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Enums\\AppRole.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Enums\\AppRole.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Enums\\AppRole.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Enums\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:34:21.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:33:42.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:33:22.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:33:16.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:33:07.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:33:01.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\Inventory.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Inventory.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:32:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:32:45.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:32:37.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:32:30.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceApp.Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "..\\ECommerceApp.Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:31:06.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CreateAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\aspnet-core-course-batch-09-main\\ECommerceApp.PresentationLayer\\Modules\\Account\\ViewModels\\CreateAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:48:29.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\islam\\Downloads\\.net_core\\aspnet-core-course-batch-09-main\\ECommerceApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T14:45:45.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

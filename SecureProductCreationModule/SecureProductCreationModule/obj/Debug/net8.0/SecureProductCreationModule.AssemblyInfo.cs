@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureProductCreationModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ad566d4ef0d58d4c96e3aba7a78c65d9c68da3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1e1be67d9ac7de80d45514340d90e0ae69d80cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureProductCreationModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureProductCreationModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

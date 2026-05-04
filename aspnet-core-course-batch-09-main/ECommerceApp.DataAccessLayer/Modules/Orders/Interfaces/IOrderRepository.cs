@@ -1,0 +1,13 @@
+﻿using ECommerceApp.Domain.Entities;
+
+namespace ECommerceApp.DataAccessLayer.Modules.Orders.Interfaces
+{
+    public interface IOrderRepository
+    {
+        Task<Order> AddAsync(Order order);
+        Task<Order?> GetByIdAsync(int orderId);
+
+        Task<List<Order>> GetOrdersByUserIdAsync(string userId);
+        Task UpdateAsync(Order order);
+    }
+}

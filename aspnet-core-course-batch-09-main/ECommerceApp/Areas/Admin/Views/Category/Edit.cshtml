@@ -1,0 +1,38 @@
+﻿@model ECommerceApp.PresentationLayer.Modules.Categories.ViewModels.CategoryEditViewModel
+@{
+    ViewData["Title"] = "Edit Category";
+}
+
+<div class="category-page">
+    <h1>Edit Category</h1>
+    <p class="lead">Update category details.</p>
+
+    <div class="category-form-card">
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="CreatedDate" />
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="d-flex gap-2 mt-4">
+                <button type="submit" class="btn btn-category-primary">Save</button>
+                <a asp-area="Admin" asp-controller="Category" asp-action="Index" class="btn btn-category-outline">Cancel</a>
+                <a asp-area="Admin" asp-controller="Category" asp-action="Details" asp-route-id="@Model.Id" class="btn btn-category-outline">Details</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

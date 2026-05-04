@@ -1,0 +1,39 @@
+﻿@model ECommerceApp.PresentationLayer.Modules.Account.ViewModels.CreateAdminViewModel
+<h2>Create Admin</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+<form asp-action="CreateAdmin" method="post">
+
+    <div class="form-group">
+        <label>Full Name</label>
+        <input asp-for="FullName" class="form-control" />
+        <span asp-validation-for="FullName"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Password</label>
+        <input asp-for="Password" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Confirm Password</label>
+        <input asp-for="ConfirmPassword" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Create Admin
+    </button>
+
+</form>

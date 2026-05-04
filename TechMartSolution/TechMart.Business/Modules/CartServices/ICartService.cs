@@ -14,5 +14,7 @@ namespace TechMart.Business.Modules.CartServices
         Task RemoveFromCartAsync(int id);
         Task ClearCartAsync(string sessionId);
         Task<float> GetCartSubtotalAsync(string sessionId);
+
+        Task UpdateQuantityAsync(int cartItemId, int quantity);
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 using TechMart.DataAccessLayer.Module.Cart;
@@ -51,6 +52,20 @@ namespace TechMart.Business.Modules.CartServices
         {
             var items = await _cartRepo.GetCartItemsAsync(sessionId);
             return items.Sum(i => i.Quantity * i.Product.Price);
+        }
+
+        //method to handle the quantity change logic
+        public async Task UpdateQuantityAsync(int cartItemId, int quantity)
+        {
+            if (quantity <= 0)
+            {
+                await _cartRepo.RemoveItemAsync(cartItemId);
+            }
+            else
+            {
+                // We need to add UpdateQuantityAsync to ICartRepository first (see Step 2)
+                await _cartRepo.UpdateQuantityAsync(cartItemId, quantity);
+            }
         }
     }
 }
